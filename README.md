@@ -3,7 +3,6 @@
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilhermefariah&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://camo.githubusercontent.com/fbf4f4aadb79493225ed43d6daca84015eafa94d496ef07bbf723200e12f923c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261"/>
 </div>
 <br>
 
