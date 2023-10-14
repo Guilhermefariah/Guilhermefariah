@@ -22,7 +22,7 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto:guilhermefaria321@gmail.com">
+    <a href = "mailto:guilhermefaria321@gmail.com ">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/-guilherme-faria/">
