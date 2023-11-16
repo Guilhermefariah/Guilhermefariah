@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDarkBlue=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Faria;I'm+23+years+old;I+from+Brasil,+GO;I+study+Analysis+and+systems+development;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Faria;I'm+23+years+old;I+from+Brasil,+GO;I+study+Analysis+and+systems+development;Be+Welcome!+:%29)
 
 <div>
   
