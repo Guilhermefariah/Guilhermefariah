@@ -1,15 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=011936&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32cd32&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=011936&size=40em&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Faria;I'm+23+years+old;I+from+Brasil,+GO;I+study+Analysis+and+systems+development;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32cd32&size=40em&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Faria;I'm+23+years+old;I+from+Brasil,+GO;I+study+Analysis+and+systems+development;Be+Welcome!+:%29)
+
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FGuilhermefariah&label=visitors%20(daily%2Ftotal)%3A&labelColor=%23000000&countColor=%2327b800&labelStyle=upper&dateShow=true)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGuilhermefariah)
+<img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif">
+
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guilhermefariah&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=011936" alt="Guilhermefariah github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermefariah&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=011936" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guilhermefariah&show_icons=true&count_private=true&hide_border=true&title_color=32cd32&icon_color=32cd32&text_color=32cd32&bg_color=000000" alt="Guilhermefariah github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermefariah&layout=compact&hide_border=true&title_color=32cd32&text_color=32cd32&bg_color=000000" />
 </div>
 
 <div>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guilhermefariah&bg_color=011936&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guilhermefariah&bg_color=000000&color=32cd32&line=32cd32&point=90ee90&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 <br>
@@ -40,4 +44,4 @@
 ![Snake animation](https://github.com/Guilhermefariah/Guilhermefariah/blob/main/github-contribution-grid-snake.svg)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=011936&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32cd32&height=120&section=footer"/>
