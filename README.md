@@ -18,13 +18,11 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Best Technologies <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-    <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" height="30" width="40" alt="php-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-    <img align="center" height="30" width="40" alt="ruby-icon" 
+    <img align="center" height="30" width="40" alt="React-icon"  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="Next-icon" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+    <img align="center" height="30" width="40" alt="Typescript-icon" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+    <img align="center" height="30" width="40" alt="JavaScript-icon" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" height="30" width="40" alt="javascript-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
    </div>
     
   
