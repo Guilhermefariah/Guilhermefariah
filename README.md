@@ -23,9 +23,11 @@
     <img align="center" height="30" width="40" alt="Typescript-icon" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
     <img align="center" height="30" width="40" alt="JavaScript-icon" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-   </div>
-    
-  
+    <img align="center" height="30" width="40" alt="Tailwindcss-icon" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+    <img align="center" height="30" width="40" alt="vscode-icon" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+   </div> 
   <h1 align="center">Social Media</h1>
     <a href = "mailto:guilhermefaria321@gmail.com">
       <img width="30" src="gmail.svg">
