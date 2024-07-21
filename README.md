@@ -18,11 +18,18 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Best Technologies <3</h1>
-    <img align="center" height="30" width="40" alt="React-icon"  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="Next-icon" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+    <img align="center" height="30" width="40" alt="Python-icon"  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="Typescript-icon" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+    <img align="center" height="30" width="40" alt="Git-icon"  
+src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img align="center" height="30" width="40" alt="MySQL-icon"  
+src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+    <img align="center" height="30" width="40" alt="Docker-icon"  
+src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
     <img align="center" height="30" width="40" alt="JavaScript-icon" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" height="30" width="40" alt="React-icon"  src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="Tailwindcss-icon" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
     <img align="center" height="30" width="40" alt="vscode-icon" 
