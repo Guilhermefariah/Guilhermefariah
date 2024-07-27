@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004BA8&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=004BA8&size=40em&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Faria;I'm+23+years+old;I+from+Brasil,+GO;I'm+Software+Developer;Be+Welcome!+:%29)
 
@@ -47,4 +47,4 @@ src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-origina
 ![Snake animation](https://github.com/Guilhermefariah/Guilhermefariah/blob/main/github-contribution-grid-snake.svg)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004BA8&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
