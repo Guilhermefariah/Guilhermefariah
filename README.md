@@ -2,10 +2,12 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=40em&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Faria;I+from+Brasil,+GO;I'm+Software+Developer;Be+Welcome!+:%29)
 
-<div align="center">  
+<div align="center"> 
   
-[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FGuilhermefariah&label=visitors%20(daily%2Ftotal)%3A&labelColor=%23000000&countColor=%2327b800&labelStyle=upper&dateShow=true)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGuilhermefariah)
 <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif">
+
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FGuilhermefariah&label=visitors%20(daily%2Ftotal)%3A&labelColor=%23000000&countColor=%2327b800&labelStyle=upper&dateShow=true)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGuilhermefariah)
+
 
 </div>
 
