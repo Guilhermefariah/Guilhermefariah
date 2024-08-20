@@ -2,25 +2,14 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=40em&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Faria;I+from+Brasil,+GO;I'm+Software+Developer;Be+Welcome!+:%29)
 
-<div align="center"> 
-  
-<img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif">
+![Snake animation](https://github.com/Guilhermefariah/Guilhermefariah/blob/main/github-contribution-grid-snake.svg)
 
-[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FGuilhermefariah&label=visitors%20(daily%2Ftotal)%3A&labelColor=%23000000&countColor=%2327b800&labelStyle=upper&dateShow=true)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FGuilhermefariah)
-
-
-</div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guilhermefariah&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=FFFFFF&bg_color=000000" alt="Guilhermefariah github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermefariah&layout=compact&hide_border=true&title_color=00ff00&text_color=FFFFFF&bg_color=000000" />
 </div>
 
-<div>
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guilhermefariah&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 <br>
 
 <div  align="center"> 
@@ -53,7 +42,5 @@ src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-origina
     </a>
 </div>
   
-![Snake animation](https://github.com/Guilhermefariah/Guilhermefariah/blob/main/github-contribution-grid-snake.svg)
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
