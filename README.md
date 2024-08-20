@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=40em&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Faria;I+from+Brasil,+GO;I'm+Software+Developer;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=40em&center=true&vCenter=true&width=1000&lines=My+name+is+Guilherme+Faria;I+from+Brasil;I'm+Software+Developer;Be+Welcome!+:%29)
 
 ![Snake animation](https://github.com/Guilhermefariah/Guilhermefariah/blob/main/github-contribution-grid-snake.svg)
 
