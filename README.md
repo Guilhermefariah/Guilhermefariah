@@ -23,8 +23,6 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
     <img align="center" height="30" width="40" alt="Typescript-icon"
       src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-    <img align="center" height="30" width="40" alt="Node-icon"
-      src="https://github.com/devicons/devicon/blob/master/icons/node/node-plain.svg">
     <img align="center" height="30" width="40" alt="JavaScript-icon" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="40" alt="Git-icon"  
