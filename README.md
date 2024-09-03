@@ -1,13 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00000&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=40em&center=true&vCenter=true&width=1000&lines=My+name+is+Guilherme+Faria;I+from+Brasil;I'm+Software+Developer;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=40em&center=true&vCenter=true&width=1000&lines=My+name+is+Guilherme+Faria;I+from+Brasil;I'm+Software+Developer;)
 
 ![Snake animation](https://github.com/Guilhermefariah/Guilhermefariah/blob/main/github-contribution-grid-snake.svg)
 
-
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guilhermefariah&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=FFFFFF&bg_color=000000" alt="Guilhermefariah github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermefariah&layout=compact&hide_border=true&title_color=00ff00&text_color=FFFFFF&bg_color=000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guilhermefariah&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=FFFFFF&bg_color=000000" alt="Guilhermefariah github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermefariah&layout=compact&hide_border=true&title_color=ff0000&text_color=FFFFFF&bg_color=000000" />
 </div>
 
 <br>
