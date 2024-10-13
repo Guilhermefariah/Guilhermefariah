@@ -29,22 +29,8 @@
       src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
     <img align="center" height="30" width="40" alt="JavaScript-icon" 
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" height="30" width="40" alt="NodeJS-icon"
-      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
     <img align="center" height="30" width="40" alt="Git-icon"  
       src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <img align="center" height="30" width="40" alt="MySQL-icon"  
-      src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-    <img align="center" height="30" width="40" alt="Prisma-icon" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-    <img align="center" height="30" width="40" alt="MongoDB-icon"  
-      src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-    <img align="center" height="30" width="40" alt="Docker-icon"  
-      src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-    <img align="center" height="30" width="40" alt="Redux-icon" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-    <img align="center" height="30" width="40" alt="vscode-icon" 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    </div> 
   <h1 align="center">Social Media</h1>
     <a href = "mailto:guilhermefaria321@gmail.com">
