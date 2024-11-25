@@ -6,7 +6,7 @@
 
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA20&size=40em&center=true&vCenter=true&width=1000&lines=My+name+is+Guilherme+Faria;I+from+Brasil;I'm+Software+Developer;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA20&size=40em&center=true&vCenter=true&width=1000&lines=My+name+is+Guilherme+Faria;I+from+Brasil;I'm+Software+Engineer;)
 
 
 ![Snake animation](https://github.com/Guilhermefariah/Guilhermefariah/blob/main/github-contribution-grid-snake.svg)
@@ -27,6 +27,8 @@
     <img align="center" height="30" width="40" alt="React-icon"
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="React-icon"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+    <img align="center" height="30" width="40" alt="AWS-icon"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg">
     <img align="center" height="30" width="40" alt="firebase-icon" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
