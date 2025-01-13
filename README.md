@@ -1,11 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-<div align="center">  
-  
-![Naruto GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmllMnk1ZHlocG11YmpnMXh5eG4xc2xxODNmenE4bnRlMmprMjJvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MtJwM5N4fuMgw/giphy.webp)
-
-</div>
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA20&size=40em&center=true&vCenter=true&width=1000&lines=My+name+is+Guilherme+Faria;I+from+Brasil;I'm+Software+Engineer;)
 
 
