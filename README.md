@@ -2,14 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF88&size=35&center=true&vCenter=true&width=1000&pause=1500&lines=Olá+Mundo!+🐧;Sou+Guilherme+Faria+😄;Desenvolvedor+Full+Stack+💻;Apaixonado+por+Tecnologia+🚀;Open+Source+Contributor+🐱‍👤)
 
-<div align="center">
-  <img 
-    width="49%" 
-    height="195px" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Guilhermefariah&theme=highcontrast&background=000000&ring=00FF88&fire=39FF14&currStreakLabel=00FF88&sideLabels=FFFFFF&currStreakNum=39FF14&dates=FFFFFF&sideNums=00FF88&hide_border=true" 
-  />
-</div>
-
 ---
 
 ### 🚀 Stack de Desenvolvimento
