@@ -4,25 +4,12 @@
 
 ---
 
-### 🚀 Stack de Desenvolvimento
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,react,typescript,javascript,mysql,docker,git,linux,nodejs&theme=dark" />
 </p>
 
 ---
-
-### 📈 Gráfico de Atividade
-
-<div align="center">
-
-[![Gráfico de atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Guilhermefariah&bg_color=000000&color=00FF88&line=39FF14&point=00FF88&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### 🌎 Conecte-se Comigo
 
 <p align="center">
   <a href="mailto:guilhermefaria321@gmail.com">
@@ -43,11 +30,5 @@
 </div>
 
 ---
-
-<div align="center">
-
-### 💚 "Transformando ideias em soluções através da tecnologia"
-
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=footer"/>
